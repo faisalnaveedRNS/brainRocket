@@ -27,8 +27,8 @@ This project includes test cases to ensure the functionality of JavaScript files
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/faisalnaveedRNS/brainRocket
+   cd brainRocket
    ```
 
 2. Install the required dependencies:
@@ -118,4 +118,5 @@ The coverage report includes the following metrics:
 ## Notes
 
 - If you encounter issues during installation or testing, ensure your Node.js version is up-to-date and all dependencies are installed correctly.
+
 # brainRocket
